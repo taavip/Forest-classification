@@ -1,2 +1,2 @@
-# Metsa-klassifitseerimine
-Tööriistad metsa kõrguse klassifitseerimiseks ja rasterandmete töötlemiseks KOVi teritooriumi piires.
+# Forest classification
+Tools for forest height classification and raster data processing within the territory of a local government.
